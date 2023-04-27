@@ -1,0 +1,19 @@
+﻿age,gender,education,mental_illbeing_cause_1,mental_illbeing_cause_2,mental_illbeing_mechanism_1,mental_illbeing_mechanism_2,favorite_modern_feature_1,favorite_modern_feature_2,favorite_modern_feature_3,mothers_specific,fathers_specific,children_specific
+27,Female,Bachelor's Degree,Social Media,Work Stress,"Social media can lead to feelings of inadequacy, social isolation, and low self-esteem","work stress can lead to burnout, anxiety, and depression.",Connections With others,Tech,distractions of social media,Work-family responsibilities,Pressure to provide financially,Pressure to perform academically
+20,Male,High School Diploma,Trauma,Genetics,Trauma can cause PTSD and other mental health issues,"genetics can play a role in predisposing individuals
+ to certain disorders",travel,access to information,lack of social interaction today,Lack of Support from friends/Family,Pressure to be unemotional,over use of technology
+35,Female,Master's Degree,Social Supports,Substance Abuse,Lack of social support can lead to loneliness and depression,"substance abuse can exacerbate existing mental 
+health issues or cause new ones",medical technology,remote work,tech addiction,The demands of motherhood,Postpartum depression,Bullying
+21,Female,Associate's Degree,Childhood Abuse,Financial Stress,Childhood abuse can lead to a host of mental health issues,financial stress can lead to anxiety and depression,entertainment,communication,effects of social media on mental health,Financial stress,Work-life balance,beauty standards on young girls
+23,Male,"Some College, No Degree",Sleep deprivation,Isolation,Sleep deprivation can affect mood and cognitive function,isolation can lead to feelings of loneliness and depression,better food,education,being busy,stigmas around Women's mental health,"Stigma around men seeking mental 
+health treatment",lack of physical activity
+29,Female,Master's Degree,Being sick,Relationship issues,depression and anxiety,relationship issues can cause stress and negative emotional impact,advanced science ,connect to family,pollution,Healthcare ,"lack of paid leave and work 
+flexibility",lack of support from parents
+31,Male,Doctorate Degree,environment,Stress,negatively impact mental health,burnout and depression.,freedom,personal growth,social culture,Tolls of childbirth,Isolation linked to being a man,Trauma 
+26,Female,Bachelor's Degree,Being overweight,subtance abuse,contribute to depression and anxiety,exacerbate existing mental health issues,social justice,access to different cultures,lack of community,Need to be a perfect mother,"COVID-19 being linked to job loss
+and change",Poverty
+19,Female,Currently Enrolled in College,Political Climate,inequality,Political climate can lead to feelings of anxiety and hopelessness, chronic stress and poor mental health outcomes,online shopping,diversity,consumer culture,Isolation associated with motherhood,"The need to form to traditional 
+gender roles",Social expectations/norms
+22,Male,Associate's Degree,Stress,Trauma, stress can lead to burnout and anxiety,trauma can cause PTSD,freedom,connecting with others,social pressure,trauma,"lack of representation of fathers 
+in coversations about parenting","Balance between academics and 
+extracurricular"
